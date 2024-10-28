@@ -62,7 +62,7 @@ class Module{
 
   }
 
-  public void grade(){
+  public void gradeCalculation(){
   
   }
 
