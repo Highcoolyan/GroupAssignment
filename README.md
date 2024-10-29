@@ -2,8 +2,8 @@
 #import java.io.*;
 
 class Module{
-  private String name;
-  private String code;
+  protected String name;
+  protected String code;
 
   //constructor
   public Module(String n,String c){
