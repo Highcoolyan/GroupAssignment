@@ -1,4 +1,4 @@
-#import java.util.Scanner;
+123#import java.util.Scanner;
 #import java.io.*;
 
 class Module{
